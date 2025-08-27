@@ -8,18 +8,18 @@ class InvalidageException extends Exception
     }
 }
 
-class Invalid
+class invalidator
 {
     void checkage(int age)
     {
         try{
             if(age<0 || age >150)
             {
-                throw InvalidageException("age is invalid");
+                throw new InvalidageException("age is invalid");
             }
 
         }
-        catch(Exceptione e){
+        catch(Exception e){
             System.out.println(e);
         }
     }
@@ -30,7 +30,7 @@ public class invalid{
         Scanner scan = new Scanner(System.in);
         int age = scan.nextInt();
 
-        invalid a1 = new invalid();
+        invalidator a1 = new invalidator();
         a1.checkage(age);
     }
 }
