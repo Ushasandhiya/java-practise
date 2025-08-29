@@ -21,7 +21,7 @@ public class twi {
         String store = san.getname();
         System.out.println(store);]
         String add = san.getphone();
-        System.out.println(add);mmmmmm
+        System.out.println(add);mm
         String ph = san.getaddress();
         System.out.println(ph);
     }
