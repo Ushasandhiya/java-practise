@@ -17,7 +17,7 @@ public class twi {
     }
 
     public static void main(String[] args) {
-        twi san = new twi()
+        twi san = new twi();
         String store = san.getname();
         System.out.println(store);
         String add = san.getphone();
