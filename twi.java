@@ -22,7 +22,7 @@ public class twi {
         System.out.println(store);
         String add = san.getphone();
         System.out.println(add);
-        String ph = san.getaddress()
+        String ph = san.getaddress();
         System.out.println(ph);
         
     }
