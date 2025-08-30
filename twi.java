@@ -23,8 +23,8 @@ public class twi {
         String add = san.getphone();
         System.out.println(add);
         String ph = san.getaddress()
-        System.out.println(ph
-        0
+        System.out.println(ph);
+        
     }
     
 }
