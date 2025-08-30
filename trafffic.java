@@ -16,7 +16,7 @@ import java.util.Scanner;
         }
         else if(color.equals("green"))
         {
-            System.out.println("GO");
+            System.out.println("GO"
         }
     
     
