@@ -5,7 +5,7 @@ import java.util.Scanner;
     {
         Scanner scan = new Scanner(System.in);
         System.out.println("What is the color of the traffic light? ");
-        String color = scan.nextLine();
+        String color = scan.nextLine()
         if(color.equals("red"))
         {
             System.out.println("STOP");
