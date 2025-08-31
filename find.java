@@ -24,5 +24,5 @@ public class find {
         san.evenorodd(num);
         
     }
-}}}}}}}}}}}}jjjjjj
+}}}}}}}}}}}}jjjjjjiiiiiiiiii
 
