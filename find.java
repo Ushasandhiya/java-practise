@@ -12,7 +12,7 @@ public class find {
             System.out.println("odd number");
         }
 
-    }hhhhhhhhhhhhhhhhhhhhhhhhhhhhh77777777777777777777
+    }
 
     public static void main(String[] args) {
 
