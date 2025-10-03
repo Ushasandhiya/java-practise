@@ -18,8 +18,4 @@ public class avg
      int avg = Totalmark/5;
      if(avg<35)
      {
-        System.out.println("Additional class is required");
-     }
-     else
-     {
-        System.\
+        System.out.println("
