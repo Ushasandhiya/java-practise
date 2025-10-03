@@ -22,5 +22,4 @@ public class avg
      }
      else
      {
-        System.out.println("you're good to go");
-     }
+        System.\
