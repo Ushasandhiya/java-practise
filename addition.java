@@ -25,7 +25,8 @@ public class addition
         public static void main(String[] args) {
 
             addition san = new addition();
-            san.sum();
+            san.mul();
         }
+    }
     
 
