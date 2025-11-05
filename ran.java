@@ -1,12 +1,12 @@
 import java.util.Scanner;
 public class ran {
 
-    Public static void main(String args[]){
+    public static void main(String args[]){
         System.out.println("enter a number:");
         Scanner sc = new Scanner(System.in);
-        int n = scan.nextInt();
+        int n = sc.nextInt();
 
-        for(int i>1;i<=n;i++){
+        for(int i=1;i<=n;i++){
             if(n%3==0){
                 
                 System.out.println("fizz");
