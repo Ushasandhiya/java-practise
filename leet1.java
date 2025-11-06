@@ -15,6 +15,6 @@ num = num-1;
 }
 count++;
 }
-System.out.println(num);
+System.out.println(count);
 }
 }
