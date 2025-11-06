@@ -9,13 +9,13 @@ public class ran {
         for(int i=1;i<=n;i++){
             if(i%3==0 && i%5==0){
                 
-                System.out.println("fizz");
+                System.out.println("FizzBuzz");
             }
             else if(i%3==0){
-                System.out.println("buzz");
+                System.out.println("Fizz");
             }
             else if(i%5==0){
-                System.out.println("fizzbuzz");
+                System.out.println("Buzz");
             }
             else{
                 System.out.println(i);
