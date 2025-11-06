@@ -1,19 +1,18 @@
 import java.util.Scanner;
 public class leet1
 {
-public static void main(string args[]){
+public static void main(String args[]){
 
-scanner sc = new scanner (system.in);
-system.out.println("num:");
-int num = sc nextint();
+Scanner sc = new Scanner (System.in);
+System.out.println("num:");
+int num = sc.nextInt();
 while(num!=0){
 if(num%2==0){
-system.out.println(num/2);
+num = num/2;
 }else{
-system.out.println(num-1);
+num = num-1;
+System.out.println(num);
 }
 }
-return num;
-system.out.println(return);
 }
 }
